@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EduGenie — Google Gemini Powered Learning Assistant
 
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
@@ -272,3 +273,7 @@ The complete 8-phase project documentation package is organized in `docs/`:
 ## 10. License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+=======
+# Edu-GEN-AI
+Naan Mudhalvan project
+>>>>>>> 5eca6cc5edf4a627ec63d0e192faf489397ea551
